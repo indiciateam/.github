@@ -48,8 +48,8 @@ Please use the in-app feedback form, or open a GitHub issue if it pertains to an
 
 If the issue involves a security vulnerability, please report it privately to any of these accounts:
 - Email: [staff@indicia.app](mailto:staff@indicia.app)
-- Telegram: https://t.me/noxoven
-- Discord: [noxoven](https://discord.com/users/404699659357913088)
+- Telegram: https://t.me/nvanhoven
+- Discord: [nvanhoven](https://discord.com/users/715755115457282111)
 
 ---
 
